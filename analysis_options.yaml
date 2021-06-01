@@ -1,0 +1,14 @@
+include: package:effective_dart/analysis_options.yaml
+
+# Disable a few linter rules
+linter:
+  rules:
+    public_member_api_docs: false
+    avoid_classes_with_only_static_members: false
+    constant_identifier_names: false
+    file_names: false
+    lines_longer_than_80_chars: false
+    slash_for_doc_comments: false
+    prefer_interpolation_to_compose_strings: false
+    prefer_adjacent_string_concatenation: false
+    non_constant_identifier_names: false

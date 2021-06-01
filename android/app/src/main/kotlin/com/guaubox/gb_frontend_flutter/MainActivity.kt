@@ -1,0 +1,6 @@
+package com.guaubox.gb_frontend_flutter
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}

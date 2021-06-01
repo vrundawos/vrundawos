@@ -1,0 +1,58 @@
+PODS:
+  - Amplify (1.9.2):
+    - Amplify/Default (= 1.9.2)
+  - Amplify/Default (1.9.2)
+  - amplify_core (0.0.1):
+    - Flutter
+  - amplify_datastore (0.0.1):
+    - Amplify
+    - amplify_core
+    - AmplifyPlugins/AWSDataStorePlugin
+    - Flutter
+  - AmplifyPlugins/AWSDataStorePlugin (1.9.2):
+    - AWSCore (~> 2.24.0)
+    - AWSPluginsCore (= 1.9.2)
+    - SQLite.swift (= 0.12.2)
+  - AWSCore (2.24.1)
+  - AWSPluginsCore (1.9.2):
+    - Amplify (= 1.9.2)
+    - AWSCore (~> 2.24.0)
+  - Flutter (1.0.0)
+  - SQLite.swift (0.12.2):
+    - SQLite.swift/standard (= 0.12.2)
+  - SQLite.swift/standard (0.12.2)
+
+DEPENDENCIES:
+  - amplify_core (from `.symlinks/plugins/amplify_core/ios`)
+  - amplify_datastore (from `.symlinks/plugins/amplify_datastore/ios`)
+  - Flutter (from `Flutter`)
+
+SPEC REPOS:
+  trunk:
+    - Amplify
+    - AmplifyPlugins
+    - AWSCore
+    - AWSPluginsCore
+    - SQLite.swift
+
+EXTERNAL SOURCES:
+  amplify_core:
+    :path: ".symlinks/plugins/amplify_core/ios"
+  amplify_datastore:
+    :path: ".symlinks/plugins/amplify_datastore/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  Amplify: 16dcca0275599bc3fa0bb19a02259f058a9f0c45
+  amplify_core: 8b38d20089fe4f225c14db6892f586bd03824a42
+  amplify_datastore: e73979905bbee5c192e59f6afcd4e0692c3132bf
+  AmplifyPlugins: 47df46f4e03b0d34c953f6348f13fe0381537c9f
+  AWSCore: f6cfada8b48d569c11b94e49e8fb184b9c1a2e7e
+  AWSPluginsCore: dcedd6826f38917f6b8bc11f261abb0fc0eb2977
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  SQLite.swift: d2b4642190917051ce6bd1d49aab565fe794eea3
+
+PODFILE CHECKSUM: 9d4acab44962b9d4fe0b3393c07b49251de66ea5
+
+COCOAPODS: 1.10.1
