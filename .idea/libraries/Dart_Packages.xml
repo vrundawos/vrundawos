@@ -107,10 +107,38 @@
             </list>
           </value>
         </entry>
+        <entry key="flutter_screenutil">
+          <value>
+            <list>
+              <option value="D:/flutterSdk2/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_screenutil-1.1.0/lib" />
+            </list>
+          </value>
+        </entry>
         <entry key="flutter_test">
           <value>
             <list>
               <option value="D:/flutterSdk2/flutter/packages/flutter_test/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="flutter_web_plugins">
+          <value>
+            <list>
+              <option value="D:/flutterSdk2/flutter/packages/flutter_web_plugins/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="fluttertoast">
+          <value>
+            <list>
+              <option value="D:/flutterSdk2/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-8.0.7/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="js">
+          <value>
+            <list>
+              <option value="D:/flutterSdk2/flutter/.pub-cache/hosted/pub.dartlang.org/js-0.6.3/lib" />
             </list>
           </value>
         </entry>
@@ -229,6 +257,9 @@
       <root url="file://D:/flutterSdk2/flutter/.pub-cache/hosted/pub.dartlang.org/date_time_format-1.1.1+1/lib" />
       <root url="file://D:/flutterSdk2/flutter/.pub-cache/hosted/pub.dartlang.org/effective_dart-1.3.1/lib" />
       <root url="file://D:/flutterSdk2/flutter/.pub-cache/hosted/pub.dartlang.org/fake_async-1.2.0/lib" />
+      <root url="file://D:/flutterSdk2/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_screenutil-1.1.0/lib" />
+      <root url="file://D:/flutterSdk2/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-8.0.7/lib" />
+      <root url="file://D:/flutterSdk2/flutter/.pub-cache/hosted/pub.dartlang.org/js-0.6.3/lib" />
       <root url="file://D:/flutterSdk2/flutter/.pub-cache/hosted/pub.dartlang.org/matcher-0.12.10/lib" />
       <root url="file://D:/flutterSdk2/flutter/.pub-cache/hosted/pub.dartlang.org/meta-1.3.0/lib" />
       <root url="file://D:/flutterSdk2/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.8.0/lib" />
@@ -245,6 +276,7 @@
       <root url="file://D:/flutterSdk2/flutter/bin/cache/pkg/sky_engine/lib" />
       <root url="file://D:/flutterSdk2/flutter/packages/flutter/lib" />
       <root url="file://D:/flutterSdk2/flutter/packages/flutter_test/lib" />
+      <root url="file://D:/flutterSdk2/flutter/packages/flutter_web_plugins/lib" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

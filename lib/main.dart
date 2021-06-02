@@ -3,7 +3,7 @@ import 'constants.dart';
 import 'routes.dart';
 
 void main() {
-  final path = RouteGenerater.ROUTE_HOME;
+  final path = RouteGenerater.ROUTE_DASHBOARD;
   final app = GuauboxApp(
     initialRoute: path,
   );
@@ -11,8 +11,10 @@ void main() {
 }
 
 class GuauboxApp extends StatelessWidget {
+
   final String initialRoute;
   GuauboxApp({this.initialRoute = ""});
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
